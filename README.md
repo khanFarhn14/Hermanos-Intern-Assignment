@@ -1,16 +1,22 @@
 # hermanos_assignment
 
-A new Flutter project.
+This application was given as an assignment
 
-## Getting Started
+## Dependencies
+```
+flutter pub add http
+```
 
-This project is a starting point for a Flutter application.
+## Login Credentials
+- username: 'mor_2314'
+- password: '83r5^'
 
-A few resources to get you started if this is your first Flutter project:
+## Task I have Completed
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Login Authentication
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- All products are displayed on the home page
+
+- Show the product page with a detailed description
+
+- There is a category button on the home page that filters the categories
